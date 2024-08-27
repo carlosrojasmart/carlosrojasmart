@@ -43,6 +43,8 @@
 </table>
 <!--- stats (end) -->
 
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
