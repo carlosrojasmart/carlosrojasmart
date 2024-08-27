@@ -50,7 +50,8 @@
 <p align="center">
 <a href="mailto:carlosrojasmartinez19gmail.com"><img src="https://img.shields.io/badge/-carlosrojasmartinez19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/carlosrojas_martinez"><img src="https://img.shields.io/badge/-@carlosrojas_martinez-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:ce.rojas@outlook.com"><img src="https://img.shields.io/badge/-ce.rojas@outlook.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"/></a>
+<a href="mailto:ce.rojas@outlook.com"><img src="https://img.shields.io/badge/-carlosrojas@outlook.com-0078D4?style=flat&logo=Microsoft%20Outlook&logoColor=white"/></a>
+</p>
 </p>
 
 
