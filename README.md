@@ -57,4 +57,4 @@ Outside of coding, I find inspiration in cinema and music.
 
 
 -----
-Credits: [Carlos Rojas](https://github.com/carlosrojasmart) quisiera poner el about me encima del gato en la mitad derecha y que a la mitad izquierda esten los lenguajes y las tools
+Credits: [Carlos Rojas](https://github.com/carlosrojasmart) 
