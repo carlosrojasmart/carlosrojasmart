@@ -1,8 +1,9 @@
+
+<h1 align="center"><b>Hi , I'm Carlos Rojas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 ### &nbsp;About Me:
 
 I am a student at Pontificia Universidad Javeriana in Colombia, driven by a passion for learning and achieving my goals through programming. While I am still honing my skills, I am dedicated to continuous growth. Outside of coding, I find inspiration in cinema and music.
-
-<h1 align="center"><b>Hi , I'm Carlos Rojas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
