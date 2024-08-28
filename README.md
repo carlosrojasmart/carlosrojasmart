@@ -4,7 +4,10 @@
 
 ### &nbsp;About Me:
 
-I am a student at Pontificia Universidad Javeriana in Colombia, driven by a passion for learning and achieving my goals through programming. While I am still honing my skills, I am dedicated to continuous growth. Outside of coding, I find inspiration in cinema and music.
+I am a student at Pontificia Universidad Javeriana in Colombia,<br>
+driven by a passion for learning and achieving my goals through programming.<br>
+While I am still honing my skills, I am dedicated to continuous growth.<br>
+Outside of coding, I find inspiration in cinema and music.
 
 </div>
 
