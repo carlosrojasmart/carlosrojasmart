@@ -21,7 +21,7 @@ Outside of coding, I find inspiration in cinema and music.
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-    ![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-%237f52ff?logo=kotlin)
+    ![Kotlin](https://img.shields.io/badge/Kotlin-%237f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
   <br>
@@ -37,7 +37,7 @@ Outside of coding, I find inspiration in cinema and music.
     ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
     ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
     ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white)
-    ![AdroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
+    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
 
